@@ -9,7 +9,7 @@
   - Auto-Forward Mode: Automatically send forward commands at regular intervals when the switch is turned on.
   - Scroll View: Displays the list of sent commands.
   - Clear Button: Clears the list of sent commands.
-- Validation: Ensures that required input fields are filled before sending commands.
+  - Validation: Ensures that required input fields are filled before sending commands.
 ## Requirements
 - Android Studio
 - Android device or emulator
